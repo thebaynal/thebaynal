@@ -22,7 +22,5 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## Most Used Languages
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DivinoAlRicafort&show_icons=true&theme=tokyonight)
 
 
