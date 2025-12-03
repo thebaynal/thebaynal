@@ -1,8 +1,12 @@
 <div align="center">
 
-## Hi!
+## Hi! I'm thebaynal 🐺
 
-## 🛠 Nerd Stack
+> **"While you sleep, I commit. While you debug, I deploy. The repo is my territory."**
+
+<br/>
+
+## 🛠 Alpha Stack
 
 | Category | Technologies |
 | :---: | :---: |
