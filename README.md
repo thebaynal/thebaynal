@@ -32,7 +32,7 @@ I'm a passionate developer exploring the world of AI, Web Development, and Data 
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=thebaynal&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" /></td>
+    <td><img src="![Top Languages](https://thebaynals.vercel.app/api/top-langs/?username=thebaynal&layout=compact&theme=tokyonight)" alt="Stats" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebaynal&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" /></td>
   </tr>
 </table>
