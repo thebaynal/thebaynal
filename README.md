@@ -23,5 +23,6 @@
 
 
 ## Most Used Languages
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thebaynal&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DivinoAlRicafort&show_icons=true&theme=tokyonight)
+
 
