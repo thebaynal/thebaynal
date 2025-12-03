@@ -22,3 +22,5 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![GitHub Stats](https://thebaynals.vercel.app/api?username=thebaynal&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://thebaynals.vercel.app/api/top-langs/?username=thebaynal&layout=compact&theme=tokyonight)
