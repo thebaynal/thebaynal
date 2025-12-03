@@ -1,8 +1,7 @@
 <div align="center">
 
-## Hi! I'm thebaynal 🐺
-
-> **"While you sleep, I commit. While you debug, I deploy. The repo is my territory."**
+## Hi! I'm thebaynal 
+> **Araw araw sipag lang**
 
 <br/>
 
