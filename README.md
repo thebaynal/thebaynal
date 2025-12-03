@@ -21,7 +21,8 @@
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-![GitHub Stats](https://thebaynals.vercel.app/api?username=thebaynal&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thebaynal&show_icons=true&theme=tokyonight)
+
 
 
 
