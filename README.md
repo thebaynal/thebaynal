@@ -27,8 +27,8 @@
 ## 📊 GitHub Stats
 
 <!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thebaynal&show_icons=true&theme=tokyonight&hide=JavaScript,HTML,CSS)
+![GitHub Stats](https://thebaynals.vercel.app/api?username=thebaynal&show_icons=true&theme=tokyonight&hide=JavaScript,HTML,CSS)
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thebaynal&layout=compact&theme=tokyonight&hide=JavaScript,HTML,CSS)
+![Top Languages](https://thebaynals.vercel.app/api/top-langs/?username=thebaynal&layout=compact&theme=tokyonight&hide=JavaScript,HTML,CSS)
 
