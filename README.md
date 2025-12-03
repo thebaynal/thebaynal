@@ -23,7 +23,6 @@
 
 ![GitHub Stats](https://thebaynals.vercel.app/api?username=thebaynal&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://thebaynals.vercel.app/api/top-langs/?username=thebaynal&layout=compact&theme=tokyonight)
 
 
 
