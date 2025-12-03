@@ -21,14 +21,10 @@
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-## STAT
-
-![Top Langs](https://thebaynals.vercel.app/api/top-langs/?username=thebaynal&layout=compact&theme=tokyonight)
-## 📊 GitHub Stats
 
 <!-- GitHub Stats Card -->
-![GitHub Stats](https://thebaynals.vercel.app/api?username=thebaynal&show_icons=true&theme=tokyonight&hide=JavaScript,HTML,CSS)
+![GitHub Stats](https://thebaynals.vercel.app/api?username=thebaynal&show_icons=true&theme=tokyonight)
 
 <!-- Top Languages -->
-![Top Languages](https://thebaynals.vercel.app/api/top-langs/?username=thebaynal&layout=compact&theme=tokyonight&hide=JavaScript,HTML,CSS)
+![Top Languages](https://thebaynals.vercel.app/api/top-langs/?username=thebaynal&layout=compact&theme=tokyonight)
 
