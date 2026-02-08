@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi! I'm thebaynal 
+## Hi! I'm Divino Al Ricafort | thebaynal
 > **Araw araw sipag lang**
 
 <br/>
