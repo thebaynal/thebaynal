@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Hi! I'm Divino Al Ricafort | thebaynal
-> **Araw araw sipag lang**
+> **Araw araw sipag lang. Currently Focusing on Cybersecurity**
 
 <br/>
 
