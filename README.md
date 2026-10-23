@@ -30,3 +30,16 @@ I'm focused on learning cybersecurity, with interests across programming, web de
 <div align="center">
   <sub>Learning, building, and showing up every day.</sub>
 </div>
+
+
+## About this repository
+
+This is the GitHub profile repository for `thebaynal`. Its README introduces Divino Al Ricafort, summarizes current interests and technologies, and links visitors to the project collection.
+
+### Methodology
+
+The profile is maintained as Markdown with a centered introduction, a short biography, a grouped technology table, and repository links. Updates to this README supply the content displayed on the account profile.
+
+### Result
+
+The deliverable is the rendered GitHub profile page. This repository contains profile documentation rather than an application or a research experiment, so model metrics and performance benchmarks do not apply. Individual project methods and results belong in the linked repositories.
